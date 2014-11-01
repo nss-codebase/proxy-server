@@ -1,0 +1,6 @@
+{
+  "calc.bob.com"    : "http://localhost:3001",
+  "weather.bob.com" : "http://localhost:3002",
+  "stocks.bob.com"  : "http://localhost:3003"
+}
+

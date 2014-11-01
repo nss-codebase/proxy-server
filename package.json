@@ -1,0 +1,13 @@
+{
+  "name": "proxy",
+  "version": "0.0.1",
+  "description": "Node Proxy Server",
+  "main": "app/index.js",
+  "author": "Chyld Medford <chyld.medford@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/nss-cohort-2014-06-07/proxy-server",
+  "dependencies": {
+    "http-proxy": "^1.6.0"
+  }
+}
+
